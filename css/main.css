@@ -342,6 +342,8 @@ button {
 
 }
 
+button:hover{opacity: .8}
+
 footer p {
     font-family: font37857;
     font-size: 18px;
